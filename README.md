@@ -10,7 +10,7 @@
   - [HW2](#HW2)
   - [HW3](#HW3)
   - [Final Project](#final-project)
-  - [Wiki Artivle](#wiki-artivle)
+  - [Wiki Article](#wiki-article)
 -----
 
 
