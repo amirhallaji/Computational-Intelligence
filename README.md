@@ -52,3 +52,5 @@ Our article was about **Invasive weed optimization** which was first published i
 
 | Article   |  [![](icons/3.svg)](http://94.184.118.13:8080/index.php/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D8%B9%D9%84%D9%81_%D9%87%D8%B1%D8%B2_%D9%85%D9%87%D8%A7%D8%AC%D9%85)  |
 |:--:|:--:|
+
+- [Wikipedia Page](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D8%B9%D9%84%D9%81_%D9%87%D8%B1%D8%B2_%D9%85%D9%87%D8%A7%D8%AC%D9%85)
